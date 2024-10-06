@@ -1,6 +1,7 @@
+---
 layout: page
-title: "à propos"
-permalink: /about
+title: à propos
+---
 
 # à propos de Mecapi
 
