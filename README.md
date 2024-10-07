@@ -1,2 +1,2 @@
-# mecapi.github.io
-Mecapi website to present robots and projects
+# mecapitronic.github.io
+Mécapi website to present robots and projects
